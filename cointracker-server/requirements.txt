@@ -1,0 +1,5 @@
+Flask
+Bcrypt
+Jwt
+Pymongo
+Requests
